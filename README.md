@@ -1,5 +1,5 @@
 # Hi, I'm Tigran 👋
-Senior software engineer with over 5 years of experience. 
+Senior software engineer with over 6 years of experience. 
 I have excellent knowledge in mobile development, Desktop development, Web development and software development for Embedded ARM Linux devices.
 He mainly worked on creating mobile applications, windows applications, backend, server engines, scripts and writing protection for servers.
 
