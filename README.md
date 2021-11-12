@@ -27,7 +27,7 @@ He mainly worked on creating mobile applications, windows applications, backend,
 ### Key points
 *   creator of [SIP Caller](https://github.com/babayanta1994/Caller-Mobile-Android-64bits) and [Concierge APP](https://github.com/babayanta1994/concierge).
 *   creator of [Carsharing APP](https://github.com/babayanta1994/car_owner) 
-*   creator of [Tnect New APP](https://github.com/babayanta1994/tnect_new).
+*   creator of [Tnect New APP](https://github.com/babayanta1994/tnect_flutter).
 *   creator of [Parking APP](https://github.com/babayanta1994/parking).
 *   creator and senior software developer in company [True-IP](http://true-ip.eu/). 
 *   Write posts about software development.
