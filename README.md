@@ -13,7 +13,7 @@ He mainly worked on creating mobile applications, windows applications, backend,
 
 <p align='center'>
    <a href="https://hh.ru/resume/d36a00beff082ae4890039ed1f76544f523535">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5JEMX_cW9Yf_lk0NiBJPLclaY4KHAexnhQ&usqp=CAU"/>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5JEMX_cW9Yf_lk0NiBJPLclaY4KHAexnhQ&usqp=CAU" height=28/>
    </a>
   
    <a href="https://t.me/babayan_tigran">
