@@ -4,7 +4,7 @@ I have excellent knowledge in mobile development, Desktop development, Web devel
 He mainly worked on creating mobile applications, windows applications, backend, server engines, scripts and writing protection for servers.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=babayanta1994&show_icons=true&count_private=true&include_all_commits=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=babayanta1994&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=babayanta1994&show_icons=true&count_private=true&include_all_commits=true"/></a>
    <a href="https://github.com/babayanta1994/github-readme-stats"><img height=150
