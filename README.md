@@ -50,10 +50,7 @@ He mainly worked on creating mobile applications, windows applications, backend,
 *   [T-nect](https://github.com/babayanta1994/Caller-Mobile-Android-64bits) - T-nect is a single information space and automation of processes between management companies, contractors and residents. The complex consists of a T-nect server for management companies and mobile applications for apartment owners.
 *   [Parksharing](https://github.com/babayanta1994/parking) - Parksharing is a smarter way to park. Easily pay for street, lot, or garage parking right from your mobile device. You can also reserve parking ahead of time near garages and stadiums across the country.
 
-<div align="center" style="margin: 40px 0">
    ![](https://komarev.com/ghpvc/?username=babayanta1994&label=PROFILE+VIEWS&color=DE002D)
-   
-</div>
 
 
 
