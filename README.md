@@ -52,7 +52,7 @@ He mainly worked on creating mobile applications, windows applications, backend,
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/babayanta1994/github-profile-views-counter">
-      ![](https://komarev.com/ghpvc/?username=babayanta1994&label=PROFILE+VIEWS&color=DE002D)
+      <img width=180 src="![](https://komarev.com/ghpvc/?username=babayanta1994&label=PROFILE+VIEWS&color=DE002D)"/>
    </a>
 </div>
 
