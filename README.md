@@ -2,7 +2,7 @@
 
 Senior software engineer with over 8 years of experience. 
 I have excellent knowledge in mobile development, Desktop development, Web development and software development for Embedded ARM Linux devices.
-He mainly worked on creating mobile applications, windows applications, backend, server engines, scripts and writing protection for servers.
+Mainly workin on creating mobile applications, windows applications, backend, server engines, scripts and writing protection for servers.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=babayanta1994&show_icons=true&count_private=true&include_all_commits=true"><img
