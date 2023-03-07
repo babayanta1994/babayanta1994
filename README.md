@@ -37,7 +37,7 @@ He mainly worked on creating mobile applications, windows applications, backend,
 *   Dart/Java/Kotlin/Groovy/Swift/C#/C++/Python/JavaScript/PHP/BashScript - languages
 *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, MariaDB, Liquibase - databases
 *   Flutter, YII2, Laravel, Django, DotNET, DotnetCore, Xamarin, NodeJS, Spring , Swelte - SDKs and Frameworks
-*   MVVM, MVP, VIPER, BLoc, Statefull, MVI, DI, Koin, Rx, SIP, TCP/IP, VOIP, WebRTC, Retrofit, Room, Corutines, FlutterFire, Firebase - mobile architecture/libs
+*   MVVM, MVP, VIPER, BLoc, Statefull, MVI, DI, Koin, Rx, SIP, TCP/IP, VOIP, WebRTC, Retrofit, Room, Corutines, FlutterFire, Firebase, Getx - mobile architecture/libs
 *   Figma/Sketch - design
 *   Jira/Asana/Bitrix24 - work managements
 *   GitHub/GitLab/Gerrit/Bitbucket - VCS
