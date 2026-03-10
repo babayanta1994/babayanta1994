@@ -4,13 +4,17 @@ Senior software engineer with over 8 years of experience.
 I have excellent knowledge in mobile development, Desktop development, Web development and software development for Embedded ARM Linux devices.
 Mainly workin on creating mobile applications, windows applications, backend, server engines, scripts and writing protection for servers.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=babayanta1994&show_icons=true&count_private=true&include_all_commits=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=babayanta1994&show_icons=true&count_private=true&include_all_commits=true"/></a>
-   <a href="https://github.com/babayanta1994/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayanta1994&layout=compact"/></a>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <p align='center'>
    <a href="https://hh.ru/resume/d36a00beff082ae4890039ed1f76544f523535">
